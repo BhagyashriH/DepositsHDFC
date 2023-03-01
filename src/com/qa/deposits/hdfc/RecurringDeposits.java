@@ -15,6 +15,6 @@ public class RecurringDeposits {
     	
     	System.out.println("Home page");
     	System.out.println("Loop");
-	System.out.println("K1");
+	
     }
 }
