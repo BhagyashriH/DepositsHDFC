@@ -11,9 +11,9 @@ public class RecurringDeposits {
 		System.out.println("RD1");
 		
 	}
-    public void Homepage() {
+    public void Loanpage() {
     	
-    	System.out.println("Home page");
+    	System.out.println("Loan page");
     	System.out.println("Loop");
     }
 }
