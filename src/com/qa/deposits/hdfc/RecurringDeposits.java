@@ -11,5 +11,8 @@ public class RecurringDeposits {
 		System.out.println("RD1");
 		
 	}
-
+    public void Homepage() {
+    	
+    	System.out.println("Home page");
+    }
 }
